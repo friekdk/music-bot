@@ -1,6 +1,6 @@
 token=NTgwNDQ1NDE2NTA4NzUxODkz.XOQ0XA.-g5NpgdjoLSwJ59DljMiB58zy-E
-owner=  @! Dream ! hamodii_yt#8500 
-prefix=d
+owner= 491884648276819968
+prefix= d
 game= Type dhelp
 stayinchannel=true
 songinstatus=true
